@@ -1,0 +1,34 @@
+# Node dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+coverage/
+
+# Env & secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+
+# TypeScript artifacts
+*.tsbuildinfo
+
+# Tooling / IDE
+.vscode/
+.idea/
+*.swp
+
+# Local notes / AI helpers
+CLAUDE.md
