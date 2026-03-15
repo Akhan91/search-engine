@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Massage",
+    "position": {
+      "lat": 59.3166,
+      "lng": 18.0561
+    }
+  },
+  {
+    "id": 2,
+    "name": "Salongens Massage",
+    "position": {
+      "lat": 59.332,
+      "lng": 18.0231
+    }
+  },
+  {
+    "id": 3,
+    "name": "Massör",
+    "position": {
+      "lat": 59.3158,
+      "lng": 18.0811
+    }
+  },
+  {
+    "id": 4,
+    "name": "Klassisk Massage",
+    "position": {
+      "lat": 59.341,
+      "lng": 17.9512
+    }
+  },
+  {
+    "id": 5,
+    "name": "Frisör",
+    "position": {
+      "lat": 59.328,
+      "lng": 18.064
+    }
+  },
+  {
+    "id": 6,
+    "name": "Nagelstudio",
+    "position": {
+      "lat": 59.3095,
+      "lng": 18.0772
+    }
+  },
+  {
+    "id": 7,
+    "name": "Yoga",
+    "position": {
+      "lat": 59.35,
+      "lng": 18.105
+    }
+  },
+  {
+    "id": 8,
+    "name": "Personlig Tränare",
+    "position": {
+      "lat": 59.298,
+      "lng": 18.033
+    }
+  },
+  {
+    "id": 9,
+    "name": "Massage",
+    "position": {
+      "lat": 59.4041,
+      "lng": 18.1091
+    }
+  },
+  {
+    "id": 10,
+    "name": "Djupmassage",
+    "position": {
+      "lat": 59.337,
+      "lng": 18.072
+    }
+  }
+]
