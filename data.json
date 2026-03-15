@@ -3,80 +3,80 @@
     "id": 1,
     "name": "Massage",
     "position": {
-      "lat": 59.3166,
-      "lng": 18.0561
+      "lat": 59.3166428,
+      "lng": 18.0561182999999
     }
   },
   {
     "id": 2,
-    "name": "Salongens Massage",
+    "name": "Salongens massage",
     "position": {
-      "lat": 59.332,
-      "lng": 18.0231
+      "lat": 59.3320299,
+      "lng": 18.023149800000056
     }
   },
   {
     "id": 3,
     "name": "Massör",
     "position": {
-      "lat": 59.3158,
-      "lng": 18.0811
+      "lat": 59.315887,
+      "lng": 18.081163800000013
     }
   },
   {
     "id": 4,
-    "name": "Klassisk Massage",
+    "name": "Svensk massage",
     "position": {
-      "lat": 59.341,
-      "lng": 17.9512
+      "lat": 59.3433317,
+      "lng": 18.090476800000033
     }
   },
   {
     "id": 5,
-    "name": "Frisör",
+    "name": "Thaimassage",
     "position": {
-      "lat": 59.328,
-      "lng": 18.064
+      "lat": 59.31952889999999,
+      "lng": 18.062400900000057
     }
   },
   {
     "id": 6,
-    "name": "Nagelstudio",
+    "name": "LPG-massage",
     "position": {
-      "lat": 59.3095,
-      "lng": 18.0772
+      "lat": 59.34411099999999,
+      "lng": 18.049118499999963
     }
   },
   {
     "id": 7,
-    "name": "Yoga",
+    "name": "Massage 30 min",
     "position": {
-      "lat": 59.35,
-      "lng": 18.105
+      "lat": 59.44411099999999,
+      "lng": 18.049118499999963
     }
   },
   {
     "id": 8,
-    "name": "Personlig Tränare",
+    "name": "Ansiktsmassage",
     "position": {
-      "lat": 59.298,
-      "lng": 18.033
+      "lat": 59.44411099999999,
+      "lng": 18.149118499999963
     }
   },
   {
     "id": 9,
     "name": "Massage",
     "position": {
-      "lat": 59.4041,
-      "lng": 18.1091
+      "lat": 59.40411099999999,
+      "lng": 18.109118499999963
     }
   },
   {
     "id": 10,
-    "name": "Djupmassage",
+    "name": "Härlig massage",
     "position": {
-      "lat": 59.337,
-      "lng": 18.072
+      "lat": 59.40211099999999,
+      "lng": 18.105118499999963
     }
   }
 ]
