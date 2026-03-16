@@ -42,15 +42,50 @@ GET /search?name=Massage&lat=59.334&lng=18.063
 
 ```json
 {
-  "totalHits": 2,
+  "totalHits": 6,
   "totalDocuments": 10,
   "results": [
     {
       "id": 1,
       "name": "Massage",
       "position": { "lat": 59.3166, "lng": 18.0561 },
-      "distance": "2.34km",
+      "distance": "1.97km",
       "score": 0
+    },
+    {
+      "id": 2,
+      "name": "Salongens Massage",
+      "position": { "lat": 59.332, "lng": 18.0231 },
+      "distance": "2.27km",
+      "score": 0
+    },
+    {
+      "id": 4,
+      "name": "Klassisk Massage",
+      "position": { "lat": 59.341, "lng": 17.9512 },
+      "distance": "6.39km",
+      "score": 0
+    },
+    {
+      "id": 9,
+      "name": "Massage",
+      "position": { "lat": 59.4041, "lng": 18.1091 },
+      "distance": "8.22km",
+      "score": 0
+    },
+    {
+      "id": 3,
+      "name": "Massör",
+      "position": { "lat": 59.3158, "lng": 18.0811 },
+      "distance": "2.27km",
+      "score": 3
+    },
+    {
+      "id": 10,
+      "name": "Djupmassage",
+      "position": { "lat": 59.337, "lng": 18.072 },
+      "distance": "610m",
+      "score": 4
     }
   ]
 }
