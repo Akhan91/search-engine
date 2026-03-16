@@ -2,7 +2,7 @@ import { type Service, type SearchResponse } from '../types.js';
 import { score } from '../utils/scoring.js';
 import { haversineMeters, formatDistance } from '../utils/distance.js';
 
-const SCORE_THRESHOLD = 4; // anything with a score greater than 4 is filtered out as "not close enough" to the search.
+const SCORE_THRESHOLD = 4; // anything with a score greater than 4 is filtered out as "not close enough" to the search. This is an arbitrary threshold.
 
 export function search(services: Service[], name: string, lat: number, lng: number): SearchResponse {
   const results = services
